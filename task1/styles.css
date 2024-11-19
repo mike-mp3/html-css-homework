@@ -1,0 +1,54 @@
+
+body {
+
+    background-color: #BDB76B;
+
+}
+
+h1 {
+    font-size: 24px;
+    font-style: Arial
+}
+
+p {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-style: italic;
+    text-align:center;
+}
+
+img {
+
+    width: 230px;
+    margin-bottom:50px;
+    border: 5px solid #e3af71;
+}
+
+div{
+
+    background-color:#F0E68C;
+    width:500px;
+    height:500px;
+    text-align:center;
+    margin: auto;
+
+  }
+
+  a {
+
+    font-family: 'William';
+    margin: 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 18px;
+    color: white;
+    padding-left: 50%;
+  }
+
+  ul {
+    padding-left: 20%;
+  }
+
+  li {
+    margin-bottom: 20px;
+  }
