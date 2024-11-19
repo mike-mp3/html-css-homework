@@ -1,3 +1,3 @@
 # html-css-homework
-My HW
-я любдю шутить.
+My HW \n
+я люблю шутить.
