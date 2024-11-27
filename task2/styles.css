@@ -38,7 +38,10 @@ main {
 .img-container {
     display: flex;
     height: 400px;
-    padding: 20px; 
+    padding: 20px;
+    border: 10px solid #757070;
+    border-radius: 10px;
+
 }
 
 footer{
